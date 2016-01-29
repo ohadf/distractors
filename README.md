@@ -3,13 +3,17 @@ Finding Distractors In Images
 
 This file contains code for our CVPR 2015 paper. If you use the code, please add the following cite:
 
-    @inproceedings{Fried:2015:FDI,
-      author = "Ohad Fried and Eli Shechtman and Dan B Goldman and Adam Finkelstein",
-      title = "Finding Distractors In Images",
-      booktitle = "Computer Vision and Pattern Recognition (CVPR)",
-      year = "2015",
-      month = jun
-    }
+```
+@INPROCEEDINGS{7298779,
+  author = {Fried, O. and Shechtman, E. and Goldman, D.B. and Finkelstein, A.}, 
+  booktitle = {Computer Vision and Pattern Recognition (CVPR), 2015 IEEE Conference on},
+  title = {Finding distractors in images},
+  year = {2015},
+  pages = {1703-1712},
+  doi = {10.1109/CVPR.2015.7298779},
+  month = {jun}
+}
+```
 
 Dependencies
 ------------
