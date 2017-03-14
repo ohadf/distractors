@@ -82,7 +82,7 @@ addpath([BASE_PATH 'SaliencyToolbox/']);
 
 Dynamic Visual Attention: searching for coding length increments
 ----------------------------------------------------------------
-<http://www.klab.caltech.edu/~xhou/projects/dva/dva.html>
+<http://www.houxiaodi.com/assets/papers/nips08matlab.zip>
 
 Download and add to path.
 ```
